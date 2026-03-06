@@ -1,0 +1,1 @@
+﻿DATABASE_URL from env: mysql://root@localhost:3306/school
